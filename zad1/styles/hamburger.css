@@ -1,0 +1,107 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.title{
+    background-color: red;
+    color: white;
+    padding: 10px;
+}
+
+.hamburger{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 700px;
+
+}
+
+.plate{
+    width: 60%;
+    height: 40px;
+    background-color: #f1f1f1;
+    border-radius: 10px 10px 40px 40px;
+    border-top: 10px solid darkgrey;
+}
+
+.roll-bottom{
+    background-color: rgb(238, 180, 110);
+    width: 50%;
+    height: 40px;
+    border-radius: 10px 10px 40px 40px;
+    border-top: 10px solid rgb(196, 113, 84);
+}
+
+.meat{
+    background-color: rgb(196, 113, 84);
+    width: 45%;
+    height: 25px;
+    border-radius: 10px;
+    border-bottom: 5px solid rgb(211, 125, 93);
+}
+
+.cucumber{
+    background-color: rgb(0, 255, 0);
+    width: 30%;
+    height: 25px;
+    border-radius: 10px 10px 40px 40px;
+    border-bottom: 15px solid rgb(46, 126, 46);
+}
+
+.circles{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+}
+
+.circle{
+    background-color: rgb(161, 70, 31);
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 0px;
+}
+
+.onion{
+    background-color: rgb(166, 84, 154);
+    width: 30%;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.onion-ring{
+    background-color: rgb(224, 140, 212);
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+
+.cheese{
+    background-color: rgb(247, 218, 51);
+    width: 60%;
+    height: 20px;
+    border-bottom: 5px solid rgb(240, 197, 105);
+}
+
+.tomato{
+    background-color: rgb(255, 0, 0);
+    width: 40%;
+    height: 30px;
+}
+
+.roll-top{
+    background-color: rgb(238, 180, 110);
+    width: 50%;
+    height: 40px;
+    border-radius: 40px 40px 10px 10px;
+    border-bottom: 10px solid rgb(196, 113, 84);
+}
