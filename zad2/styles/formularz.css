@@ -1,74 +1,115 @@
-/* Default styles for larger screens */
-.container {
+.container{
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
     justify-content: left;
-    width: 800px; /* Set an initial width */
-    margin: 0 auto; /* Center the container */
 }
 
-/* Title styles */
-.title {
+.title{
+    color: orange;
     font-size: 40px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
     margin-bottom: 20px;
 }
 
-/* First section styles */
-.first-section {
+.first-section{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
     margin-bottom: 20px;
 }
 
-/* Paragraph styles */
-.paragraphs {
+.paragraphs{
     font-size: 18px;
+    color: orange;
+    font-weight: bold;
     margin-bottom: 4px;
 }
 
-/* Input styles for larger screens */
-.inputsName, .inputsSecond {
+.inputsName{
     margin-right: 20px;
+    border: 1px solid gray;
+    width: 250px;
+    padding: 10px;
+    border-radius: 5px;
 }
 
-/* Option styles */
-.optionCss {
+.second-section{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+
+.inputsSecond{
+    margin-right: 20px;
+    border: 1px solid gray;
+    width: 153px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.third-section{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+
+.optionCss{
     width: 570px;
     height: 30px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 10px;
 }
 
-/* Message styles */
-.message {
+.fourth-section{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+
+
+.sixth-section{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+
+.message{
     width: 600px;
     height: 300px;
 }
 
-/* Reset and submit button styles */
-.reset-button, .submit-button {
+.seventh-section{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+
+.reset-button{
+    background-color: orange;
+    border: none;
+    color: white;
     padding: 15px 40px;
-    font-size: 16px;
+    margin-right: 5px;
     border-radius: 10px;
+    font-size: 16px;
     cursor: pointer;
 }
 
-/* Media queries for responsiveness */
-@media (max-width: 768px) {
-    .container {
-        width: 90%; /* Adjust the width for smaller screens */
-    }
-
-    /* Adjust font size and input widths for smaller screens */
-    .title {
-        font-size: 30px;
-    }
-
-    .inputsName, .inputsSecond {
-        width: 100%;
-        margin-right: 0;
-    }
-
-    /* Adjust button widths for smaller screens */
-    .reset-button, .submit-button {
-        width: 100%;
-        margin-right: 0;
-    }
+.submit-button{
+    background-color: orange;
+    border: none;
+    color: white;
+    width: 470px;
+    padding: 15px 40px;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
 }
