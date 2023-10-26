@@ -1,0 +1,115 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: left;
+}
+
+.title{
+    color: orange;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 20px;
+}
+
+.first-section{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+
+.paragraphs{
+    font-size: 18px;
+    color: orange;
+    font-weight: bold;
+    margin-bottom: 4px;
+}
+
+.inputsName{
+    margin-right: 20px;
+    border: 1px solid gray;
+    width: 250px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.second-section{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+
+.inputsSecond{
+    margin-right: 20px;
+    border: 1px solid gray;
+    width: 153px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.third-section{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+
+.optionCss{
+    width: 570px;
+    height: 30px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.fourth-section{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+
+
+.sixth-section{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+
+.message{
+    width: 600px;
+    height: 300px;
+}
+
+.seventh-section{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+
+.reset-button{
+    background-color: orange;
+    border: none;
+    color: white;
+    padding: 15px 40px;
+    margin-right: 5px;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.submit-button{
+    background-color: orange;
+    border: none;
+    color: white;
+    width: 470px;
+    padding: 15px 40px;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
