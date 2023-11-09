@@ -15,3 +15,5 @@ JavaScript:
 
 * Zadanie4: [Suma](https://mrosiak546.github.io/ITNAF_HTML_CSS/suma/)
 
+* Zadanie5: [Fibonacci](https://mrosiak546.github.io/ITNAF_HTML_CSS/suma/)
+
