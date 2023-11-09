@@ -17,3 +17,5 @@ JavaScript:
 
 * Zadanie5: [Fibonacci](https://mrosiak546.github.io/ITNAF_HTML_CSS/fibonacci/)
 
+* Zadanie6: [Palindrom](https://mrosiak546.github.io/ITNAF_HTML_CSS/palindrom/)
+
