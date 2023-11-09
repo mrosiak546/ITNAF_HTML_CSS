@@ -14,3 +14,5 @@ JavaScript:
 
 
 * Zadanie2: [Licznik/Counter](https://mrosiak546.github.io/ITNAF_HTML_CSS/zad4/)
+
+* Suma: [Suma](https://mrosiak546.github.io/ITNAF_HTML_CSS/suma/)
