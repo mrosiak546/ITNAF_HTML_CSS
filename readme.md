@@ -19,3 +19,5 @@ JavaScript:
 
 * Zadanie6: [Palindrom](https://mrosiak546.github.io/ITNAF_HTML_CSS/palindrom/)
 
+* Zadanie7: [isHappyNumber](https://mrosiak546.github.io/ITNAF_HTML_CSS/happynumber/)
+
