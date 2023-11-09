@@ -1,10 +1,6 @@
 <!-- rOZWIĄZANIA -->
 <<<<<<< zad3
 HTML & CSS
-=======
-HTML & CSS:
->>>>>>> main
-
 
 * Zadanie1: [Hamburger](https://mrosiak546.github.io/ITNAF_HTML_CSS/zad1/)
 
