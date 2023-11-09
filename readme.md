@@ -6,4 +6,4 @@
 * Zadanie2: [Zad2 - Forumlarz](https://mrosiak546.github.io/ITNAF_HTML_CSS/zad2/)
 
 
-* Zadanie3: [Zad3 - Forumlarz](https://mrosiak546.github.io/ITNAF_HTML_CSS/zad3/)
+* Zadanie3: [Zad3 - FunkcjeJS](https://mrosiak546.github.io/ITNAF_HTML_CSS/zad3/)
