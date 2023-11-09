@@ -13,3 +13,5 @@ JavaScript:
 
 * Zadanie3: [Zakres](https://mrosiak546.github.io/ITNAF_HTML_CSS/zad5/)
 
+*Zadanie4: [Suma](https://mrosiak546.github.io/ITNAF_HTML_CSS/suma/)
+
