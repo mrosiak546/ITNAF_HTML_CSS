@@ -9,4 +9,4 @@
 * Zadanie3: [Zad3 - FunkcjeJS](https://mrosiak546.github.io/ITNAF_HTML_CSS/zad3/)
 
 
-* * Zadanie4: [Zad4 - Licznik/Counter](https://mrosiak546.github.io/ITNAF_HTML_CSS/zad4/)
+* Zadanie4: [Zad4 - Licznik/Counter](https://mrosiak546.github.io/ITNAF_HTML_CSS/zad4/)
