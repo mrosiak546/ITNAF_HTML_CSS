@@ -1,4 +1,5 @@
-function isHappyNumber(number) {
+let st = new Set();
+function isHappyNumber2(number){
     let sum = 0;
     let digits = number.toString().split('');
     for (let i = 0; i < digits.length; i++) {
@@ -7,9 +8,12 @@ function isHappyNumber(number) {
     }
     if (sum == 1) {
         return true;
+    } else if (st.has(sum)){
+        return false;
     } else {
-        return isHappyNumber(sum);
+        st.add(sum);
+        return isHappyNumber2(sum);
     }
 }
 
-console.log(isHappyNumber(19));
+console.log(isHappyNumber2(19));
