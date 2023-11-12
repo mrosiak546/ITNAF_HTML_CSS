@@ -18,3 +18,4 @@ function isHappyNumber2(number){
 
 console.log(isHappyNumber2(19));
 console.log(isHappyNumber2(20));
+console.log(isHappyNumber2(7));
