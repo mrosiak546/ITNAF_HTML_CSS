@@ -22,6 +22,6 @@ JavaScript:
 * Zadanie7: [isHappyNumber](https://mrosiak546.github.io/ITNAF_HTML_CSS/happynumber/)
 
 React:
-*TODO List: []
+* TODO List: []
 
 
