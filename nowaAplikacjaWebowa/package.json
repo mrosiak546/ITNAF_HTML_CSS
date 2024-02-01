@@ -1,0 +1,17 @@
+{
+  "name": "nowaaplikacjawebowa",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@mati285/nowyfolderxpp": "^2.0.0",
+    "parcel": "^2.10.3"
+  }
+}
