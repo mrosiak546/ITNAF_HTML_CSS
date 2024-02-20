@@ -2,7 +2,7 @@
   "name": "tnaf-react-3",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/mrosiak546/ITNAF_HTML_CSS/tnaf-react-3.git",
+  "homepage": "https://mrosiak546.github.io/tnaf-react-3",
   "type": "module",
   "scripts": {
     "predeploy": "npm run dev",
